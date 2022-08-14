@@ -1,0 +1,8 @@
+pandas
+pandas_ta
+numpy 
+matplotlib
+seaborn
+sklearn
+statsmodels
+pmdarima
